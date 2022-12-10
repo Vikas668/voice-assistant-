@@ -79,6 +79,8 @@ if _name_ == "_main_":
             webbrowser.open("stackoverflow.com")
         elif 'play music' in query:
             webbrowser.open("https://youtu.be/KjgluLOMa0k")
+        elif 'hackerrank' in query:
+            webbrowser.open("hackerrank.com")
 
 
         # elif 'music' in query:
